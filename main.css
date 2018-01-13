@@ -1,0 +1,48 @@
+/*yellow #f9c933;*/
+/*blue #67c7c9*/
+/*pink #e9599f*/
+/*grey #63737f*/
+
+.input {	
+	padding: 5px 10px;
+    margin: 0 5px;
+	border: 1px solid #63737f;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+
+#submit, #reset {
+	padding: 8px 13px;
+    margin: 0 5px;
+	background-color: #67c7c9;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}
+
+img {
+	margin-bottom: 0;
+	border-bottom: 5px solid #f9c933;
+}
+
+h2 {
+	margin-top: 30px;
+	color: #e9599f;
+}
+
+h3 {
+	color: #63737f;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background: white;
+}
+
+p {
+	font-size: 25px;
+}
